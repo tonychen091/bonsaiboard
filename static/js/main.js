@@ -90,6 +90,8 @@ jQuery(document).ready(function($) {
 		}, 1000);
 	})();
 
+	/**
+
 	(function updateCalendarData()
 	{
 		new ical_parser("calendar.php", function(cal){
@@ -199,6 +201,8 @@ jQuery(document).ready(function($) {
         	updateCalendar();
         }, 1000);
 	})();
+
+**/
 
 	(function updateCompliment()
 	{
